@@ -4,5 +4,8 @@ public class Main{
         System.out.println("Hello");
 
     }
+    public static int newFeature(){
+        return 0;
+    }
 
 }
