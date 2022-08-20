@@ -5,7 +5,10 @@ public class Main{
 
     }
     public static int newFeature(){
-        return 0;
+        int a ,b;
+        a=10;
+        b=11;
+        return a+b;
     }
 
 }
